@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-"@amap/amap-vue@^2.0.12":
-  version "2.0.12"
-  resolved "https://registry.npm.taobao.org/@amap/amap-vue/download/@amap/amap-vue-2.0.12.tgz#b71b20798adfdc4a7439f94d6b730b137d153770"
-  integrity sha1-txsgeYrf3Ep0OflNa3MLE30VN3A=
-
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.12.13":
   version "7.12.13"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.12.13.tgz#dcfc826beef65e75c50e21d3837d7d95798dd658"
